@@ -1,0 +1,6 @@
+{
+  "name": "Cerebras — Live AI Speed Challenge",
+  "description": "Real-time side-by-side AI inference speed and quality benchmark comparing Cerebras and Groq via concurrent Server-Sent Events streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
